@@ -51,7 +51,7 @@ Technologies I use:
 
 
 
-You can also find me on LinkedIn here: 
+You can also find me on LinkedIn and AngelList here: 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="75px"/>](https://www.linkedin.com/in/will-kee/)
 [<img src="./angellist-brands.svg" width="75px" color="white"/>](https://angel.co/u/will-kee)
