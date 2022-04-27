@@ -1,6 +1,15 @@
 <img src="./header.png" />
 
-![Will Kee's GitHub stats](https://github-readme-stats.vercel.app/api?username=willkee&show_icons=true&theme=merko)
+<div>
+  
+  ![Will Kee's GitHub stats](https://github-readme-stats.vercel.app/api?username=willkee&show_icons=true&theme=merko)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willkee&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=willkee&rank=S,AAA,AA,A)](https://github.com/willkee/github-profile-trophy)
+
+  
+</div>
 
 I'm a software engineer finishing up my studies at App Academy. I'm passionate about building applications from code and solving problems or bugs as I go.
 
@@ -40,7 +49,6 @@ Technologies I use:
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=willkee&rank=S,AAA,AA,A)](https://github.com/willkee/github-profile-trophy)
 
 
 You can also find me on LinkedIn here: 
