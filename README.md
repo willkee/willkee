@@ -1,6 +1,6 @@
-![Will Kee's GitHub stats](https://github-readme-stats.vercel.app/api?username=willkee&show_icons=true&theme=merko)
+<img src="./header.png" />
 
-Welcome to my profile! I'm Will. 😄
+![Will Kee's GitHub stats](https://github-readme-stats.vercel.app/api?username=willkee&show_icons=true&theme=merko)
 
 I'm a software engineer finishing up my studies at App Academy. I'm passionate about building applications from code and solving problems or bugs as I go.
 
