@@ -11,7 +11,7 @@
   
 </div>
 
-I'm a software engineer finishing up my studies at App Academy. I'm passionate about building applications from code and solving problems or bugs as I go.
+I'm a software engineer and recent graduate from App Academy. I'm passionate about building applications from code and solving problems or bugs as I go.
 
 Technologies I use:
 
