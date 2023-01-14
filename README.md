@@ -2,15 +2,11 @@
 
 <div>
   
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willkee&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=willkee&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B)](https://github.com/willkee/github-profile-trophy)
 
   
 </div>
-
-I'm a software engineer and recent graduate from App Academy. I'm passionate about building applications from code and solving problems or bugs as I go.
 
 Technologies I use:
 
