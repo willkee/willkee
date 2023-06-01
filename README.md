@@ -42,10 +42,3 @@ Technologies I use:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35px"/>
 </div>
 <br>
-<br>
-
-
-
-You can also find me on LinkedIn here: 
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="75px"/>](https://www.linkedin.com/in/will-kee/)
